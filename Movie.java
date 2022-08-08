@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.sql.*;
 
-public class MovieDatabase 
+public class Movie 
 {
   public void getDetails()
  {
